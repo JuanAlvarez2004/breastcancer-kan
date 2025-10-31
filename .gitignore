@@ -48,5 +48,6 @@ datasets/
 *.xlsx
 
 *.md
+!DOCUMENTACION_TECNICA.md
 notebook.ipynb
 VariantesKANS.ipynb
