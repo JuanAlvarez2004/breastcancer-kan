@@ -2888,13 +2888,6 @@ Objetivos:
   - Lenguaje: Python 3.11
   - Framework: PyTorch 2.0+
 
-### 🔗 Recursos Complementarios
-
-- **Documentación Técnica:** `DOCUMENTACION_TECNICA.md`
-- **Guía de Mejoras:** `GUIA_RAPIDA_MEJORAS_V4.md`
-- **Análisis de Estabilidad:** `MEJORAS_ESTABILIDAD_V3.md`
-- **Resultados Finales:** `RESULTADOS_FINALES_COMPARATIVA.md`
-
 ### 📊 Datos de Costos (Colombia 2025)
 
 - **Fuente:** Sistema General de Seguridad Social en Salud (SGSSS)
@@ -2906,7 +2899,6 @@ Objetivos:
 
 **Documento completado:** 6 de noviembre de 2025  
 **Versión:** 2.0 (Análisis Exhaustivo Completo)  
-**Autor:** Análisis basado en notebook de JuanAlvarez2004  
 **Iteraciones completadas:** 10/10 (100%) ✅
 
 ---

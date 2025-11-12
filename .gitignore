@@ -50,6 +50,8 @@ datasets/
 *.md
 !DOCUMENTACION_TECNICA.md
 !README.md
+!ANALISIS_COSTOS.md
 !ANALISIS_RESULTADOS_DETALLADO.md
 notebook.ipynb
 VariantesKANS.ipynb
+taller-3-presentation
