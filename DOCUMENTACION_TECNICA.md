@@ -1,9 +1,5 @@
 # Documentación Técnica: Evaluación de Kolmogorov-Arnold Networks en Clasificación de Cáncer de Mama
 
-## Autores
-- Juan David Alvarez Zapata (2220221073)
-- Juan Ángel Bocanegra Valencia (2220221084)
-
 ## Índice
 1. [Introducción](#introducción)
 2. [Estructura del Proyecto](#estructura-del-proyecto)
